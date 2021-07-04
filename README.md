@@ -1,11 +1,6 @@
-# IP_Week_12
-
----
-title: "Moringa_Core_DS9_Lawrence_Ondieki_IP_WK12"
+# "Moringa_Core_DS9_Lawrence_Ondieki_IP_WK12"
 author: "Lawrence Ondieki"
 date: "3 July 2021"
-output: html_document
----
 
 # The Context
 A Kenyan entrepreneur has created an online cryptography course and would want to advertise it on her blog. She currently targets audiences originating from various countries. In the past, she ran ads to advertise a related course on the same blog and collected data in the process. She would now like to employ my services as a Data Science Consultant to help her identify which individuals are most likely to click on her ads.
